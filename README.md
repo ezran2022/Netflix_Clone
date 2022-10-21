@@ -9,7 +9,10 @@ The netflix original movies
 The treding movies and the Top rated 
 
 ![image](https://user-images.githubusercontent.com/103323625/185898382-be10d65f-52ff-449f-89ff-31fa15c06521.png)
+### Link
+https://endearing-belekoy-11721a.netlify.app
 
+### code
 
 ``` javascript
 
